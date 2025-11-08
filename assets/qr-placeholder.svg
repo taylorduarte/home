@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="QR placeholder">
+  <rect width="128" height="128" fill="#f3f4f6"/>
+  <rect x="8" y="8" width="40" height="40" fill="#111827"/>
+  <rect x="80" y="8" width="40" height="40" fill="#111827"/>
+  <rect x="8" y="80" width="40" height="40" fill="#111827"/>
+  <rect x="44" y="44" width="40" height="40" fill="#111827"/>
+  <rect x="80" y="80" width="40" height="40" fill="#111827"/>
+</svg>
